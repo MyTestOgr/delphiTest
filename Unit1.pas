@@ -37,6 +37,7 @@ end;
 procedure TForm1.Button2Click(Sender: TObject);
 begin
 showmessage('');
+caption:='';
 end;
 
 end.
