@@ -28,7 +28,7 @@ procedure TForm1.Button1Click(Sender: TObject);
 begin
 showmessage('23');
 caption:='12312';
-showmessage('');
+showmessage('Ilnur');
 end;
 
 end.
